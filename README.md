@@ -1,5 +1,5 @@
 # Miami landing page
- [Responsive landing page](https://TimurHrynenko.github.io/miami/)
+ [Responsive landing page](https://GrynenkoTimur.github.io/miami/)
 
 Technology stack:
   - HTML
